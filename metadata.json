@@ -1,0 +1,5 @@
+{
+  "name": "AgentX Chess RL Mentor",
+  "description": "A reinforcement learning chess agent (AgentX) that learns from scratch over a 20-game season, evolving from a beginner to an adaptive player where victory is measured by material dominance as well as checkmate.",
+  "requestFramePermissions": []
+}
